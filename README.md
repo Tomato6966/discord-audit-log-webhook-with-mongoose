@@ -3,7 +3,6 @@
 **Note this Discord Bot Repository is the Same as for the Public Bot [LOGGER BOT](https://discord.com/api/oauth2/authorize?client_id=813806729639886879&permissions=8&scope=bot) if u want to support us,**
 **Please invite [Loggerbot](https://discord.com/api/oauth2/authorize?client_id=813806729639886879&permissions=8&scope=bot)**
 
-
 ## [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
 
 ## MONGODB
